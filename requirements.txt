@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langgraph
+langchain-groq
+langchain-core
+python-dotenv
+pandas
+plotly
+typing-extensions
+pydantic
